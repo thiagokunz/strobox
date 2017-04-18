@@ -1,0 +1,1 @@
+Strobox é um instrumento musical digital interativo criado por Thiago Kunz para a Banda Strobo. Ele usa uma placa arduino, potenciometros e uma chave seletora de 5 posições em uma escada de resistores para controlar os rítmos e notas de escalas. Ele foi criado para qualquer pessoa tocar ao vivo com a Banda em Shows.
